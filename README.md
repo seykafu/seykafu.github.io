@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Seykafu
 
-You can use the [editor on GitHub](https://github.com/seykafu/seykafu.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Hi!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm from Waterloo and am an aspiring product leader.
 
-### Markdown
+Please check out my work, projects, and blogs respectively!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Please check out my [resume](https://drive.google.com/file/d/11OWM3LlUAfQQyrUg7pVngqHJA6Uwm-9e/view?usp=sharing)!
 
-```markdown
-Syntax highlighted code block
+### My Work
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
+### My Software Projects
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/seykafu/seykafu.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+Please also check out my [medium page](https://medium.com/@seykafu!)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Contact Me!
