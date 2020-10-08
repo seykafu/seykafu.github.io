@@ -5,7 +5,7 @@ I'm from Waterloo and am an aspiring product leader.
 
 Please check out my work, projects, and blogs respectively!
 
-Please check out my [resume](https://drive.google.com/file/d/11OWM3LlUAfQQyrUg7pVngqHJA6Uwm-9e/view?usp=sharing)!
+Please check out my [resume](https://drive.google.com/file/d/11OWM3LlUAfQQyrUg7pVngqHJA6Uwm-9e/view)!
 
 # My Work
 
