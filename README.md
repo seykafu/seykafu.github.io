@@ -9,18 +9,39 @@ Please check out my [resume](https://drive.google.com/file/d/11OWM3LlUAfQQyrUg7p
 
 # My Work
 
+## Product @ Avoy
+Currently a product manager at Avoy, a travel-startup building out an ecosystem of applications and products for travellers and businesses around the world to find the best hidden gems and unbeaten destinations based on consumer preferences.
+
+## Product Manager Intern @ CertiK
+At Certik, I was part of several product teams; most notably the CertiKShield and Auditing Portal.
+
+I helped conceptualize, design and release the CertiKShield platform, working with various stakeholders including engineers and designers as well as the COO, brainstorming feature ideas, illustrating wireframes, and producing a actionable prototype for the engineering team. CertiKShield is designed to help decentralize converage for staking pool users who want to be covered for any potential loss in wallet crypto or their stake. Users can join pools and earn crypto from staking regularly while being simultaneously covered by paying a small monthly fee.
+
+Along with CertiKShield, I helped conceptualize and prepare the prelaunch of CertiK's auditing portal, which is designed to help streamline client auditing projects with an interactive user-facing platform for easier communication and GitHub comment viewing.
+
+I also supported the Marketing Team's efforts in launching their new marketing campaign throughout the summer, with the goal of acquiring new blockchain ambassadors, establishing partnership programs and streamlining marketing analytics for easier KPI analysis.
+
+## Product Manager Intern @ Veeva Systems
+At Veeva, I was part of Veeva Network, a master data management platform designed for large players in the life sciences and pharmaceutical space. 
 
 # My Projects
 
 ## Shenkii
+[Main Website](https://shenkii.com/)
+[Official HackMD Whitepaper](https://hackmd.io/@teamshenkii/rJkW5u96L)
+[GitHub](https://github.com/seykafu/Shenkii)
 
 ## Aweare
+[DevPost Link](https://devpost.com/software/aweare-1i8ko2)
 
 ## Snapp
+[DevPost Link](https://devpost.com/software/snapp-vctpoz)
 
 ## giftXChange
+[DevPost Link](https://devpost.com/software/giftxchange-starterhacks-2019)
 
 ## DriveMas
+[DevPost Link](https://devpost.com/software/drivemas)
 
 # Contact Me!
 [Email](mailto:kaseyfuwaterloo@gmail.com)
