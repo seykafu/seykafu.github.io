@@ -24,6 +24,11 @@ I also supported the Marketing Team's efforts in launching their new marketing c
 ## Product Manager Intern @ Veeva Systems
 At Veeva, I was part of Veeva Network, a master data management platform designed for large players in the life sciences and pharmaceutical space. 
 
+## Product Manager Intern @ SAP
+SAP provided my my first product management internship!
+
+## Consulting and Analytics Intern @ Precima
+
 # My Projects
 
 ## Shenkii
