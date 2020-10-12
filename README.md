@@ -14,7 +14,7 @@ Currently a product manager at Avoy, a travel-startup building out an ecosystem 
 
 ## Product Manager Intern @ CertiK
 At Certik, I was part of several product teams; most notably the [CertiKShield](https://shield.certik.foundation/) and [Auditing Portal](https://certik.io/).
-![alt text](https://ibb.co/sp78X4B)
+![](https://ibb.co/sp78X4B)
 
 I helped conceptualize, design and release the CertiKShield platform, working alongside various stakeholders including engineers, designers and the COO. Work ranged from widely from brainstorming feature ideas, testing APIs, and illustrating wireframes to producing a actionable prototype for the engineering team. CertiKShield is designed to help decentralize converage for staking pool users who want to be covered for any potential loss in wallet crypto or their stake. Users can join pools and earn crypto from staking regularly while being simultaneously covered by paying a small monthly fee.
 
