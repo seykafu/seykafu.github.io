@@ -18,7 +18,7 @@ Where I'm working with Destination Marketing Orgs (DMOs) to understand specific 
 
 ## Product Manager Intern @ CertiK
 At Certik, I was part of several product teams; most notably the [CertiKShield](https://shield.certik.foundation/):
-![alt text](Assets/shield.png):
+![alt text](Assets/shield.png)
 
 and [Auditing Portal](https://certik.io/):
 ![alt text](Assets/audit.png)
@@ -44,7 +44,7 @@ I eventually also worked on [SAP HANA Cloud](https://www.sap.com/canada/products
 
 ## Content Coordinator Intern @ Blackberry Messenger
 
-# My Projects
+# My Projects/Hackathons
 
 ## Shenkii
 [Main Website](https://shenkii.com/)
@@ -63,7 +63,12 @@ I eventually also worked on [SAP HANA Cloud](https://www.sap.com/canada/products
 ## DriveMas
 [DevPost Link](https://devpost.com/software/drivemas)
 
-# Contact Me!
+# My Leadership Activities
+
+
+# About Me
+
+# Contact
 [Email](mailto:kaseyfuwaterloo@gmail.com)
 
 Phone: 519-801-7135
