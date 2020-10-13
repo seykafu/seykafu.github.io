@@ -11,13 +11,15 @@ Please check out my [resume](https://drive.google.com/file/d/11OWM3LlUAfQQyrUg7p
 
 ## Product @ Avoy
 Currently a product manager at Avoy, a travel-startup building out an ecosystem of applications and products for travellers and businesses around the world to find the best hidden gems and unbeaten destinations based on consumer preferences.
+I'm currently a product lead for [Avoy Marketing](https://partners.avoy.io):
+![alt text](Assets/avoypartners.png)
 
 ## Product Manager Intern @ CertiK
 At Certik, I was part of several product teams; most notably the [CertiKShield](https://shield.certik.foundation/):
-![alt text](https://ibb.co/sp78X4B "CertiKShield Webpage")
+![alt text](Assets/shield.png):
 
-
-and [Auditing Portal](https://certik.io/).
+and [Auditing Portal](https://certik.io/):
+![alt text](Assets/audit.png)
 
 I helped conceptualize, design and release the CertiKShield platform, working alongside various stakeholders including engineers, designers and the COO. Work ranged from widely from brainstorming feature ideas, testing APIs, and illustrating wireframes to producing a actionable prototype for the engineering team. CertiKShield is designed to help decentralize converage for staking pool users who want to be covered for any potential loss in wallet crypto or their stake. Users can join pools and earn crypto from staking regularly while being simultaneously covered by paying a small monthly fee.
 
