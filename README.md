@@ -5,7 +5,6 @@ I'm from Waterloo and am an aspiring product leader. Please check out my work, p
 
 Please check out my [resume](https://drive.google.com/file/d/11OWM3LlUAfQQyrUg7pVngqHJA6Uwm-9e/view)!
 
-<br/>
 # My Work
 ## Product @ Avoy
 Currently a product manager at Avoy, a travel-startup building out an ecosystem of applications and products for travellers and businesses around the world to find the best hidden gems and unbeaten destinations based on consumer preferences.
