@@ -9,6 +9,7 @@ Please check out my [resume](https://drive.google.com/file/d/11OWM3LlUAfQQyrUg7p
 ## Product @ Avoy
 Currently a product manager at Avoy, a travel-startup building out an ecosystem of applications and products for travellers and businesses around the world to find the best hidden gems and unbeaten destinations based on consumer preferences.
 I'm currently the product lead for [Avoy Marketing](https://partners.avoy.io):
+<br/>
 ![alt text](Assets/avoypartners.png)
 
 * I'm working with the CEO, engineers and designers to launch new data-driven features for travel influencers, marketing organizations, and ultimate end users. This includes:
