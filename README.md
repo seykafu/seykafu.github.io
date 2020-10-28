@@ -68,12 +68,18 @@ I eventually also worked on [SAP HANA Cloud](https://www.sap.com/canada/products
 
 At Precima, I primarily worked on a data snapshot comparison and subsequent Excel analysis project for clients in the retail and commerce space.
 
+Here are some of my achievements in-depth:
+1. Optimized client revenue potential by 10% by first defining data and project requirements and communicating with client-facing team.
+
+2. Next, I commensed the data standardization project in SQL and Shell Scripts by running 50+ SQL queries to build the proper tables necessary on AWS RedShift, with the key focus on determining significant differences in 6-month snapshots.
+
+3. Finally, the end deliverable comprised of generated data insights from the un-wrangled client data via QlikView, Excel Tables and other visualizations.
+
 <br/>
 
 ## Content Coordinator Intern @ Blackberry Messenger
 
-<br/>
-
+<br/> 
 # My Projects/Hackathons
 
 <br/>
