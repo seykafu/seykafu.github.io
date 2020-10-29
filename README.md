@@ -76,11 +76,10 @@ Here are some of my achievements in-depth:
 3. Finally, the end deliverable comprised of generated data insights from the un-wrangled client data via QlikView, Excel Tables and other visualizations.
 
 <br/> 
+
 # My Projects/Hackathons
-
-<br/>
-
-## Shenkii
+## Shenkii - Side Project
+Shenkii 
 [Main Website](https://shenkii.com/) 
 
 [Official HackMD Whitepaper](https://hackmd.io/@teamshenkii/rJkW5u96L) 
