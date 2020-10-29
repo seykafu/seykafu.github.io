@@ -75,10 +75,6 @@ Here are some of my achievements in-depth:
 
 3. Finally, the end deliverable comprised of generated data insights from the un-wrangled client data via QlikView, Excel Tables and other visualizations.
 
-<br/>
-
-## Content Coordinator Intern @ Blackberry Messenger
-
 <br/> 
 # My Projects/Hackathons
 
@@ -86,22 +82,45 @@ Here are some of my achievements in-depth:
 
 ## Shenkii
 [Main Website](https://shenkii.com/)
-[Official HackMD Whitepaper](https://hackmd.io/@teamshenkii/rJkW5u96L)
-[GitHub](https://github.com/seykafu/Shenkii)
+..[Official HackMD Whitepaper](https://hackmd.io/@teamshenkii/rJkW5u96L)
+..[GitHub](https://github.com/seykafu/Shenkii)
 
 ## Aweare
 [DevPost Link](https://devpost.com/software/aweare-1i8ko2)
+..[Github](https://github.com/seykafu/aweare)
 
 ## Snapp
 [DevPost Link](https://devpost.com/software/snapp-vctpoz)
+..[GitHub](https://github.com/seykafu/snapp)
 
 ## giftXChange
 [DevPost Link](https://devpost.com/software/giftxchange-starterhacks-2019)
+..[Github](https://github.com/seykafu/starterhacks2019)
 
 ## DriveMas
 [DevPost Link](https://devpost.com/software/drivemas)
+..[Github](https://github.com/seykafu/DriveMAS)
 
 # My Leadership Activities
+## Watsolve Consulting Group
+Watsolve is a pro bono and student-led consulting group established by Dr. Okey Igboeli at the University of Waterloo.
+
+As part of Watsolve, I began my journey as an associate, and ended my journey as a project lead. Here are my achievements:
+
+* I Led a 3-person consulting team on 4-month project from May - Aug 2018 for a startup client based in Waterloo, working on revenue optimization, product market fit, investor outreach and internal organizational structure.
+
+* I faciliated weekly client presentations to establish milestones, provide updates on project work, prevent roadblocks, and ultimately amplify relationships, resulting in the client expressing interest in a continuous contract.
+
+![alt text](Assets/watsolve.jpeg)
+
+
+## Podcast Lead @ UW PM
+<html>
+<body>
+<iframe src="https://open.spotify.com/embed-podcast/show/4bjMhUJIKYlAl0nCjQCqGv" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+</body>
+</html>
+## VP People @ UW Blueprint
 
 
 # About Me
