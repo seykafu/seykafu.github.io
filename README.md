@@ -5,6 +5,8 @@ I'm from Waterloo and am an aspiring product leader. Please check out my work, p
 
 Please check out my [resume](https://drive.google.com/file/d/11OWM3LlUAfQQyrUg7pVngqHJA6Uwm-9e/view)!
 
+Additionally, you can learn more about my personal life at my [Notion Page!](https://www.notion.so/Seykafu-a8fda5021a274d82af74341b9a4a9f2e)
+
 # My Work
 ## Product @ Avoy
 I'm currently a product manager at Avoy, a travel-startup building out an ecosystem of applications and products for travellers and businesses around the world to find the best hidden gems and unbeaten destinations based on consumer preferences.
@@ -81,25 +83,25 @@ Here are some of my achievements in-depth:
 <br/>
 
 ## Shenkii
-[Main Website](https://shenkii.com/)
-..[Official HackMD Whitepaper](https://hackmd.io/@teamshenkii/rJkW5u96L)
-..[GitHub](https://github.com/seykafu/Shenkii)
+[Main Website](https://shenkii.com/) 
+[Official HackMD Whitepaper](https://hackmd.io/@teamshenkii/rJkW5u96L) 
+[GitHub](https://github.com/seykafu/Shenkii)
 
 ## Aweare
-[DevPost Link](https://devpost.com/software/aweare-1i8ko2)
-..[Github](https://github.com/seykafu/aweare)
+[DevPost Link](https://devpost.com/software/aweare-1i8ko2) 
+[Github](https://github.com/seykafu/aweare) 
 
 ## Snapp
-[DevPost Link](https://devpost.com/software/snapp-vctpoz)
-..[GitHub](https://github.com/seykafu/snapp)
+[DevPost Link](https://devpost.com/software/snapp-vctpoz) 
+[GitHub](https://github.com/seykafu/snapp) 
 
 ## giftXChange
-[DevPost Link](https://devpost.com/software/giftxchange-starterhacks-2019)
-..[Github](https://github.com/seykafu/starterhacks2019)
+[DevPost Link](https://devpost.com/software/giftxchange-starterhacks-2019) 
+[Github](https://github.com/seykafu/starterhacks2019) 
 
 ## DriveMas
-[DevPost Link](https://devpost.com/software/drivemas)
-..[Github](https://github.com/seykafu/DriveMAS)
+[DevPost Link](https://devpost.com/software/drivemas) 
+[Github](https://github.com/seykafu/DriveMAS) 
 
 # My Leadership Activities
 ## Watsolve Consulting Group
@@ -113,17 +115,14 @@ As part of Watsolve, I began my journey as an associate, and ended my journey as
 
 ![alt text](Assets/watsolve.jpeg)
 
-
 ## Podcast Lead @ UW PM
 <html>
 <body>
 <iframe src="https://open.spotify.com/embed-podcast/show/4bjMhUJIKYlAl0nCjQCqGv" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </body>
 </html>
+
 ## VP People @ UW Blueprint
-
-
-# About Me
 
 
 # Contact
